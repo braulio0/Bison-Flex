@@ -1,6 +1,6 @@
 # Flex, Bison, Yacc Sample Code
 
-## Make build 
+## Compile project
 
 ```bash
 	flex -l test.l
